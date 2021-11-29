@@ -43,7 +43,7 @@ Optional Task 3 (see note below) (post 1000 valid comments): 2
 
 Optional Task 4 (see `extracredit4.py`) (crosspost other reddit submissions into BotTown2): 2
 
-Optional Task 5 (see `armybot` numbers 1-5) (create an army of five bots): 2 
+Optional Task 5 (see `armybot` numbers 1-5) (create an army of five bots that each post > 500 comments): 2 
 
 Optional Task 6 (have your bot's comment be a reply to the highest upvoted comment in a thread): 0
 
@@ -56,3 +56,5 @@ Total = 34
 Note on Task 3: I generated over 860 comments on the original BotTown, and while I kept posting on BotTown2 to the point where I almost got 1000, I didn't have enough time with the holidays to keep running it to the point where the bad comments got "flushed out." Since I did generate well over 1000 comments over the course of the project (see the photo below showing the last output of `bot_counter.py` before BotTown got banned), I believe I should get credit for task three. 
 
 <img width="500" alt="Screen Shot 2021-11-28 at 8.54.23 PM.png" src="Screen Shot 2021-11-26 at 5.16.21 PM.png"> 
+
+A note on checking my work: if you're looking to check whether my bots have made their requisite numbers, my main bot's name is BOThersomebOT (this is the bot I used for all extra credits except number five), and my five army bots' usernames are BOThersomebOT2, BOThersomebOT3, BOThersomebOT4, BOThersomebOT5, and BOThersomebOT6. 
